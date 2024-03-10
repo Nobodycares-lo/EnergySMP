@@ -5,3 +5,4 @@ When you kill someone you get a good effect (If you have a bad effect you will l
 Commands:
 /EffectSMP start
 
+#I did not make Effect Keeper I Made The Effect SMP Plugin.
